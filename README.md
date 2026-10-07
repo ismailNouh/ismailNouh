@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Ismail Nouh Hudhuun
+#  I'm Ismail Nouh Hudhuun
 ### 🚀 Full-Stack Web Developer & Tech Instructor
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&width=500&lines=Full-Stack+Web+Developer;Python+%26+JavaScript+Expert;AI+Automation+%26+APIs;Tech+Instructor+%26+Educator)](https://git.io/typing-svg)
@@ -82,7 +82,7 @@ p><a href="https://github.com/ismailNouh"><img src="https://img.shields.io/githu
 ### ⚡ Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ismailNouh/ismailNouh/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismailNouh&theme=tokyonight" alt="Ismail Nouh Contribution Graph" width="100%" />
 </p>
 
 ---
